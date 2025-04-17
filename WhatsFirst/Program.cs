@@ -25,8 +25,7 @@ app.MapGet("/greet", () =>{
     return "hello whats first";
 });
 
-//here m just sending a message to a form to check if its going or not 
-//its just a starter code 
+
 app.MapPost("/send-whatsapp", async ([FromBody] WhatsAppRequest request) =>
 {
     try
