@@ -1,0 +1,275 @@
+C:\Users\sambo\Desktop\appp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\sambo\Desktop\appp\bin\Debug\net9.0\appsettings.json
+C:\Users\sambo\Desktop\appp\bin\Debug\net9.0\appp.staticwebassets.endpoints.json
+C:\Users\sambo\Desktop\appp\bin\Debug\net9.0\appp.exe
+C:\Users\sambo\Desktop\appp\bin\Debug\net9.0\appp.deps.json
+C:\Users\sambo\Desktop\appp\bin\Debug\net9.0\appp.runtimeconfig.json
+C:\Users\sambo\Desktop\appp\bin\Debug\net9.0\appp.dll
+C:\Users\sambo\Desktop\appp\bin\Debug\net9.0\appp.pdb
+C:\Users\sambo\Desktop\appp\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sambo\Desktop\appp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.csproj.AssemblyReference.cache
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.AssemblyInfoInputs.cache
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.AssemblyInfo.cs
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.csproj.CoreCompileInputs.cache
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\scopedcss\bundle\appp.styles.css
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\staticwebassets\msbuild.build.appp.props
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.appp.props
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.appp.props
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.csproj.Up2Date
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.dll
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\refint\appp.dll
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.pdb
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\appp.genruntimeconfig.cache
+C:\Users\sambo\Desktop\appp\obj\Debug\net9.0\ref\appp.dll
+D:\My Documents\Downloads\appp\appp\bin\Debug\net9.0\appsettings.Development.json
+D:\My Documents\Downloads\appp\appp\bin\Debug\net9.0\appsettings.json
+D:\My Documents\Downloads\appp\appp\bin\Debug\net9.0\appp.staticwebassets.endpoints.json
+D:\My Documents\Downloads\appp\appp\bin\Debug\net9.0\appp.exe
+D:\My Documents\Downloads\appp\appp\bin\Debug\net9.0\appp.deps.json
+D:\My Documents\Downloads\appp\appp\bin\Debug\net9.0\appp.runtimeconfig.json
+D:\My Documents\Downloads\appp\appp\bin\Debug\net9.0\appp.dll
+D:\My Documents\Downloads\appp\appp\bin\Debug\net9.0\appp.pdb
+D:\My Documents\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\My Documents\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.csproj.AssemblyReference.cache
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.AssemblyInfoInputs.cache
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.AssemblyInfo.cs
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.csproj.CoreCompileInputs.cache
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cs
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cache
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\scopedcss\bundle\appp.styles.css
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets.build.json
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets.development.json
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.build.appp.props
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.appp.props
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.appp.props
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets.pack.json
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.csproj.Up2Date
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.dll
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\refint\appp.dll
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.pdb
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\appp.genruntimeconfig.cache
+D:\My Documents\Downloads\appp\appp\obj\Debug\net9.0\ref\appp.dll
+D:\appp\appp\bin\Debug\net9.0\appsettings.Development.json
+D:\appp\appp\bin\Debug\net9.0\appsettings.json
+D:\appp\appp\bin\Debug\net9.0\appp.staticwebassets.endpoints.json
+D:\appp\appp\bin\Debug\net9.0\appp.exe
+D:\appp\appp\bin\Debug\net9.0\appp.deps.json
+D:\appp\appp\bin\Debug\net9.0\appp.runtimeconfig.json
+D:\appp\appp\bin\Debug\net9.0\appp.dll
+D:\appp\appp\bin\Debug\net9.0\appp.pdb
+D:\appp\appp\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\appp\appp\obj\Debug\net9.0\appp.csproj.AssemblyReference.cache
+D:\appp\appp\obj\Debug\net9.0\appp.GeneratedMSBuildEditorConfig.editorconfig
+D:\appp\appp\obj\Debug\net9.0\appp.AssemblyInfoInputs.cache
+D:\appp\appp\obj\Debug\net9.0\appp.AssemblyInfo.cs
+D:\appp\appp\obj\Debug\net9.0\appp.csproj.CoreCompileInputs.cache
+D:\appp\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cs
+D:\appp\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cache
+D:\appp\appp\obj\Debug\net9.0\scopedcss\bundle\appp.styles.css
+D:\appp\appp\obj\Debug\net9.0\staticwebassets.build.json
+D:\appp\appp\obj\Debug\net9.0\staticwebassets.development.json
+D:\appp\appp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.build.appp.props
+D:\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.appp.props
+D:\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.appp.props
+D:\appp\appp\obj\Debug\net9.0\staticwebassets.pack.json
+D:\appp\appp\obj\Debug\net9.0\appp.csproj.Up2Date
+D:\appp\appp\obj\Debug\net9.0\appp.dll
+D:\appp\appp\obj\Debug\net9.0\refint\appp.dll
+D:\appp\appp\obj\Debug\net9.0\appp.pdb
+D:\appp\appp\obj\Debug\net9.0\appp.genruntimeconfig.cache
+D:\appp\appp\obj\Debug\net9.0\ref\appp.dll
+D:\appp\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\appp\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\appp\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\appsettings.json
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\appp.staticwebassets.endpoints.json
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\appp.exe
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\appp.deps.json
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\appp.runtimeconfig.json
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\appp.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\appp.pdb
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.csproj.AssemblyReference.cache
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.AssemblyInfoInputs.cache
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.AssemblyInfo.cs
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.csproj.CoreCompileInputs.cache
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\scopedcss\bundle\appp.styles.css
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.build.appp.props
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.appp.props
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.appp.props
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.csproj.Up2Date
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.dll
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\refint\appp.dll
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.pdb
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\appp.genruntimeconfig.cache
+C:\Users\sambo\Downloads\appp\appp\appp\obj\Debug\net9.0\ref\appp.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sambo\Downloads\appp\appp\appp\bin\Debug\net9.0\Twilio.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\appsettings.json
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\appp.staticwebassets.endpoints.json
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\appp.exe
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\appp.deps.json
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\appp.runtimeconfig.json
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\appp.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\appp.pdb
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\bin\Debug\net9.0\Twilio.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.csproj.AssemblyReference.cache
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.AssemblyInfoInputs.cache
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.AssemblyInfo.cs
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.csproj.CoreCompileInputs.cache
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\scopedcss\bundle\appp.styles.css
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.build.appp.props
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.appp.props
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.appp.props
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.csproj.Up2Date
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\refint\appp.dll
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.pdb
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\appp.genruntimeconfig.cache
+C:\Users\Munyadziwa Petrus\Downloads\appp\appp\obj\Debug\net9.0\ref\appp.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.csproj.AssemblyReference.cache
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.AssemblyInfoInputs.cache
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.AssemblyInfo.cs
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.csproj.CoreCompileInputs.cache
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\refint\appp.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.pdb
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\appsettings.json
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\appp.staticwebassets.endpoints.json
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\appp.exe
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\appp.deps.json
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\appp.runtimeconfig.json
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\appp.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\appp.pdb
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\bin\Debug\net9.0\Twilio.dll
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\scopedcss\bundle\appp.styles.css
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\staticwebassets\msbuild.appp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\staticwebassets\msbuild.build.appp.props
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.appp.props
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.appp.props
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.csproj.Up2Date
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\appp.genruntimeconfig.cache
+C:\Users\Munyadziwa Petrus\Desktop\appp\obj\Debug\net9.0\ref\appp.dll

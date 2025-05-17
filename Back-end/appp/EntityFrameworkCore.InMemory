@@ -1,0 +1,10 @@
+  Determining projects to restore...
+  Writing C:\Users\Student\AppData\Local\Temp\tmpz44fks.tmp
+info : X.509 certificate chain validation will use the default trust store selected by .NET for code signing.
+info : X.509 certificate chain validation will use the default trust store selected by .NET for timestamping.
+info : Adding PackageReference for package 'Microsoft' into project 'D:\appp\appp\appp.csproj'.
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/microsoft/index.json
+info :   NotFound https://api.nuget.org/v3/registration5-gz-semver2/microsoft/index.json 444ms
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/microsoft/index.json
+info :   NotFound https://api.nuget.org/v3/registration5-gz-semver2/microsoft/index.json 285ms
+error: There are no versions available for the package 'Microsoft'.

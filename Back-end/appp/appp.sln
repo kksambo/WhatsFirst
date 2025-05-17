@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appp", "appp.csproj", "{E3A62721-4CC0-C560-DAD7-ED6F9807573F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3A62721-4CC0-C560-DAD7-ED6F9807573F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A62721-4CC0-C560-DAD7-ED6F9807573F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A62721-4CC0-C560-DAD7-ED6F9807573F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A62721-4CC0-C560-DAD7-ED6F9807573F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B4D7750-4B55-4375-856B-92A0D5D3A026}
+	EndGlobalSection
+EndGlobal

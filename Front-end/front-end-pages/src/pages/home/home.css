@@ -1,0 +1,150 @@
+/* General Styles */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f8f9fc;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Navigation Bar */
+  nav {
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  nav h1 {
+    color: #4e73df;
+  }
+  
+  nav a {
+    color: #6e707e;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  nav a:hover {
+    color: #4e73df;
+  }
+  
+  nav button {
+    background-color: #4e73df;
+    color: #ffffff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  nav button:hover {
+    background-color: #375a7f;
+  }
+  
+  nav button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(78, 115, 223, 0.25);
+  }
+  
+  /* Hero Section */
+  header {
+    background-color: #e3f2fd;
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  header h2 {
+    color: #2e2e2e;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 16px;
+  }
+  
+  header p {
+    color: #6e707e;
+    font-size: 16px;
+    margin-bottom: 24px;
+  }
+  
+  header button {
+    background-color: #4e73df;
+    color: #ffffff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  header button:hover {
+    background-color: #375a7f;
+  }
+  
+  /* Service Description Section */
+  section {
+    padding: 40px 20px;
+  }
+  
+  section h3 {
+    color: #2e2e2e;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  
+  section .grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  @media (min-width: 768px) {
+    section .grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    section .grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  
+  section .card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  section .card h4 {
+    color: #2e2e2e;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  
+  section .card p {
+    color: #6e707e;
+    font-size: 14px;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #2e2e2e;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer a {
+    color: #6e707e;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  footer a:hover {
+    color: #ffffff;
+  }
